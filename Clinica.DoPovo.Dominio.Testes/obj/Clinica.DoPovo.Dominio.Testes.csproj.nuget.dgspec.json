@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio.Testes\\Clinica.DoPovo.Dominio.Testes.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio.Testes\\Clinica.DoPovo.Dominio.Testes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio.Testes\\Clinica.DoPovo.Dominio.Testes.csproj",
+        "projectName": "Clinica.DoPovo.Dominio.Testes",
+        "projectPath": "c:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio.Testes\\Clinica.DoPovo.Dominio.Testes.csproj",
+        "packagesPath": "C:\\Users\\jardel.pereira\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio.Testes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jardel.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://nuget.autoglass.com.br/svc": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio\\Clinica.DoPovo.Dominio.csproj": {
+                "projectPath": "c:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio\\Clinica.DoPovo.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.11.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NBuilder": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.311\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio\\Clinica.DoPovo.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio\\Clinica.DoPovo.Dominio.csproj",
+        "projectName": "Clinica.DoPovo.Dominio",
+        "projectPath": "c:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio\\Clinica.DoPovo.Dominio.csproj",
+        "packagesPath": "C:\\Users\\jardel.pereira\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jardel.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://nuget.autoglass.com.br/svc": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.311\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Clinica.DoPovo.DataTransfer/1.0.0": {
+        "dependencies": {
+          "Clinica.DoPovo.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Clinica.DoPovo.DataTransfer.dll": {}
+        }
+      },
+      "Clinica.DoPovo.Dominio/1.0.0": {
+        "runtime": {
+          "Clinica.DoPovo.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clinica.DoPovo.DataTransfer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clinica.DoPovo.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\jardel.pereira\Desktop\ClinicaApi\Clinica.DoPovo.DataTransfer\bin\Debug\net6.0\Clinica.DoPovo.DataTransfer.deps.json
+C:\Users\jardel.pereira\Desktop\ClinicaApi\Clinica.DoPovo.DataTransfer\bin\Debug\net6.0\Clinica.DoPovo.DataTransfer.dll
+C:\Users\jardel.pereira\Desktop\ClinicaApi\Clinica.DoPovo.DataTransfer\bin\Debug\net6.0\Clinica.DoPovo.DataTransfer.pdb
+C:\Users\jardel.pereira\Desktop\ClinicaApi\Clinica.DoPovo.DataTransfer\bin\Debug\net6.0\Clinica.DoPovo.Dominio.dll
+C:\Users\jardel.pereira\Desktop\ClinicaApi\Clinica.DoPovo.DataTransfer\bin\Debug\net6.0\Clinica.DoPovo.Dominio.pdb
+C:\Users\jardel.pereira\Desktop\ClinicaApi\Clinica.DoPovo.DataTransfer\obj\Debug\net6.0\Clinica.DoPovo.DataTransfer.csproj.AssemblyReference.cache
+C:\Users\jardel.pereira\Desktop\ClinicaApi\Clinica.DoPovo.DataTransfer\obj\Debug\net6.0\Clinica.DoPovo.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jardel.pereira\Desktop\ClinicaApi\Clinica.DoPovo.DataTransfer\obj\Debug\net6.0\Clinica.DoPovo.DataTransfer.AssemblyInfoInputs.cache
+C:\Users\jardel.pereira\Desktop\ClinicaApi\Clinica.DoPovo.DataTransfer\obj\Debug\net6.0\Clinica.DoPovo.DataTransfer.AssemblyInfo.cs
+C:\Users\jardel.pereira\Desktop\ClinicaApi\Clinica.DoPovo.DataTransfer\obj\Debug\net6.0\Clinica.DoPovo.DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\jardel.pereira\Desktop\ClinicaApi\Clinica.DoPovo.DataTransfer\obj\Debug\net6.0\Clinica.DoPovo.DataTransfer.csproj.CopyComplete
+C:\Users\jardel.pereira\Desktop\ClinicaApi\Clinica.DoPovo.DataTransfer\obj\Debug\net6.0\Clinica.DoPovo.DataTransfer.dll
+C:\Users\jardel.pereira\Desktop\ClinicaApi\Clinica.DoPovo.DataTransfer\obj\Debug\net6.0\refint\Clinica.DoPovo.DataTransfer.dll
+C:\Users\jardel.pereira\Desktop\ClinicaApi\Clinica.DoPovo.DataTransfer\obj\Debug\net6.0\Clinica.DoPovo.DataTransfer.pdb
+C:\Users\jardel.pereira\Desktop\ClinicaApi\Clinica.DoPovo.DataTransfer\obj\Debug\net6.0\ref\Clinica.DoPovo.DataTransfer.dll

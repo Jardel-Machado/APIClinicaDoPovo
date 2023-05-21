@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Clinica.DoPovo.API</name>
+    </assembly>
+    <members>
+        <member name="M:Clinica.DoPovo.API.Controllers.Consultas.ConsultaController.Recuperar(System.Int32)">
+            <summary>
+            Recupera uma consulta por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Consultas.ConsultaController.Listar(Clinica.DoPovo.DataTransfer.Consultas.Request.ConsultaListarRequest)">
+            <summary>
+            Lista as consultas com paginação
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Consultas.ConsultaController.Inserir(Clinica.DoPovo.DataTransfer.Consultas.Request.ConsultaInserirRequest)">
+            <summary>
+            Adiciona uma nova consulta
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Consultas.ConsultaController.Editar(System.Int32,Clinica.DoPovo.DataTransfer.Consultas.Request.ConsultaEditarRequest)">
+            <summary>
+            Edita uma consulta por Id
+            </summary>
+            <param name="id"></param>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Consultas.ConsultaController.Excluir(System.Int32)">
+            <summary>
+            Exclui uma consulta por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Especialidades.EspecialidadeController.Recuperar(System.Int32)">
+            <summary>
+            Recupera uma especialidade por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Especialidades.EspecialidadeController.Listar(Clinica.DoPovo.DataTransfer.Especialidades.Request.EspecialidadeListarRequest)">
+            <summary>
+            Lista as especialidades com paginação
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Especialidades.EspecialidadeController.Inserir(Clinica.DoPovo.DataTransfer.Especialidades.Request.EspecialidadeInserirRequest)">
+            <summary>
+            Adiciona uma nova especialidade
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Especialidades.EspecialidadeController.Editar(System.Int32,Clinica.DoPovo.DataTransfer.Especialidades.Request.EspecialidadeEditarRequest)">
+            <summary>
+            Edita uma especialidade por Id
+            </summary>
+            <param name="id"></param>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Especialidades.EspecialidadeController.Excluir(System.Int32)">
+            <summary>
+            Exclui uma especialidade por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Medicos.MedicosController.Recuperar(System.Int32)">
+            <summary>
+            Recupera um médico por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Medicos.MedicosController.Listar(Clinica.DoPovo.DataTransfer.Medicos.Request.MedicoListarRequest)">
+            <summary>
+            Lista os médicos com paginação
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Medicos.MedicosController.Inserir(Clinica.DoPovo.DataTransfer.Medicos.Request.MedicoInserirRequest)">
+            <summary>
+            Adiciona um novo médico
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Medicos.MedicosController.Editar(System.Int32,Clinica.DoPovo.DataTransfer.Medicos.Request.MedicoEditarRequest)">
+            <summary>
+            Edita um médico por Id
+            </summary>
+            <param name="id"></param>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Medicos.MedicosController.Excluir(System.Int32)">
+            <summary>
+            Exclui um médico por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Medicos.MedicosController.AdicionarEspecialidade(Clinica.DoPovo.DataTransfer.Medicos.Request.MedicoAdicionarEspecialidadeRequest)">
+            <summary>
+            Adiciona uma ou mais especialidades ao médico
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Medicos.MedicosController.RemoverEspecialidade(Clinica.DoPovo.DataTransfer.Medicos.Request.MedicoRemoverEspecialidadeRequest)">
+            <summary>
+            Exclui uma ou mais especialidades do médico
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Pacientes.PacienteController.Recuperar(System.Int32)">
+            <summary>
+            Recupera um paciente por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Pacientes.PacienteController.Listar(Clinica.DoPovo.DataTransfer.Pacientes.Request.PacienteListarRequest)">
+            <summary>
+            Lista os pacientes com paginação
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Pacientes.PacienteController.Inserir(Clinica.DoPovo.DataTransfer.Pacientes.Request.PacienteInserirRequest)">
+            <summary>
+            Adiciona um novo paciente 
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Pacientes.PacienteController.Editar(System.Int32,Clinica.DoPovo.DataTransfer.Pacientes.Request.PacienteEditarRequest)">
+            <summary>
+            Edita um paciente por Id
+            </summary>
+            <param name="id"></param>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Clinica.DoPovo.API.Controllers.Pacientes.PacienteController.Excluir(System.Int32)">
+            <summary>
+            Exclui um paciente por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
