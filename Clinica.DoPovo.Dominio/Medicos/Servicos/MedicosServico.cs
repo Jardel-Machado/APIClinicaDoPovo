@@ -99,4 +99,12 @@ public class MedicosServico : IMedicosServico
 
         return medico;
     }
+
+    public void VerificarEspecialidadeExistenteNoMedico(Medico medico, Especialidade especialidade)
+    {
+        if(!medico.Especialidades.Contains(especialidade))
+        {
+            throw new ArgumentException("Médico não possui essa especialidade!");
+        }
+    }   
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio\\Clinica.DoPovo.Dominio.csproj": {}
+    "C:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio\\Clinica.DoPovo.Dominio.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio\\Clinica.DoPovo.Dominio.csproj": {
+    "C:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio\\Clinica.DoPovo.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio\\Clinica.DoPovo.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio\\Clinica.DoPovo.Dominio.csproj",
         "projectName": "Clinica.DoPovo.Dominio",
-        "projectPath": "c:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio\\Clinica.DoPovo.Dominio.csproj",
+        "projectPath": "C:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio\\Clinica.DoPovo.Dominio.csproj",
         "packagesPath": "C:\\Users\\jardel.pereira\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\jardel.pereira\\Desktop\\Dev_Autoplay\\API\\ClinicaApi\\Clinica.DoPovo.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -48,10 +48,5 @@ public class Medico
 
         Crm = crm;
     }
-    public virtual bool PossuiEspecialidade(Especialidade especialidades)
-    {
-        return Especialidades.Contains(especialidades);
-    }
-
 
 }

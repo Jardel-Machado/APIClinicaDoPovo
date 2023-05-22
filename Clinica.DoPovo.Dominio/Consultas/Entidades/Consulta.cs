@@ -50,12 +50,7 @@ public class Consulta
         if (especialidade is null)
         {
             throw new ArgumentException("Id da especialidade é inválido!");
-        }
-
-        if (Medico != null && !Medico.PossuiEspecialidade(especialidade))
-        {
-            throw new ArgumentException("O médico não possui essa especialidade.");
-        }
+        }       
 
         Especialidade = especialidade;
     }
@@ -73,5 +68,5 @@ public class Consulta
         }
 
         DataConsulta = dataConsulta;
-    }
+    }    
 }

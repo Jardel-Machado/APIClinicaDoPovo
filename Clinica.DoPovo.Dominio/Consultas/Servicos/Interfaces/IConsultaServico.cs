@@ -1,5 +1,6 @@
 using Clinica.DoPovo.Dominio.Consultas.Entidades;
 using Clinica.DoPovo.Dominio.Consultas.Servicos.Comandos;
+using Clinica.DoPovo.Dominio.Medicos.Servicos.Comandos;
 
 namespace Clinica.DoPovo.Dominio.Consultas.Servicos.Interfaces;
 

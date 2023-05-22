@@ -62,6 +62,8 @@ public class ConsultaServico : IConsultaServico
 
         Especialidade especialidade = especialidadeServico.Validar(comando.IdEspecialidade);
 
+        medicosServico.VerificarEspecialidadeExistenteNoMedico(medico, especialidade);
+
         return new Consulta(paciente, medico, especialidade, comando.DataConsulta);
     }
 

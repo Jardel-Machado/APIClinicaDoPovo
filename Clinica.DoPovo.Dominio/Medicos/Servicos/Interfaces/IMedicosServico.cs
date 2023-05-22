@@ -1,3 +1,4 @@
+using Clinica.DoPovo.Dominio.Especialidades.Entidades;
 using Clinica.DoPovo.Dominio.Medicos.Entidades;
 using Clinica.DoPovo.Dominio.Medicos.Servicos.Comandos;
 
@@ -11,4 +12,6 @@ public interface IMedicosServico
     Medico Editar(int id, MedicoEditarComando comando);
     Medico AdiconarEspecialidade(int id, MedicoAdicionarEspecialidadeComando comando);
     Medico RemoverEspecialidade(int id,  MedicoRemoverEspecialidadeComando comando);
+    void VerificarEspecialidadeExistenteNoMedico(Medico medico, Especialidade especialidade);
+    
 }
